@@ -13,3 +13,4 @@ A resources repo all the materials we used for our NSS workshop
 
 #### https://developer.mozilla.org/en-US/
 #### https://www.w3schools.com/
+#### https://www.freecodecamp.org/learn/2022/responsive-web-design/
