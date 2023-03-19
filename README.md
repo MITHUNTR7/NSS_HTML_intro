@@ -11,5 +11,5 @@ A resources repo all the materials we used for our NSS workshop
 
 ## Additional resources:
 
-https://developer.mozilla.org/en-US/
-https://www.w3schools.com/
+#### https://developer.mozilla.org/en-US/
+#### https://www.w3schools.com/
